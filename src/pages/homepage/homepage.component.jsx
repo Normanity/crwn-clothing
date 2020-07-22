@@ -5,7 +5,7 @@ import './homepage.styles.scss';
 
 const HomePage = ({history}) => (
     <div className='homepage'>
-        <Directory />        
+        <Directory />
     </div>
 );
 
